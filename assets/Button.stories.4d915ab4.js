@@ -1,0 +1,2 @@
+/* empty css               */import{B as t}from"./Button.93a166da.js";import"./clsx.m.256e9345.js";import"./index.module.2848764b.js";import"./index.5b367e6e.js";import"./iframe.5989ae3f.js";import"./jsx-runtime.9e38d278.js";const m={title:"components/Button",component:t,args:{children:"Button"},argTypes:{size:{options:["sm","md","lg"],control:{type:"inline-radio"}}}},a={},l=["Default"];export{a as Default,l as __namedExportsOrder,m as default};
+//# sourceMappingURL=Button.stories.4d915ab4.js.map
