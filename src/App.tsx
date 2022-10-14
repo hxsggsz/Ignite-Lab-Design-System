@@ -1,11 +1,9 @@
 import './styles/global.css';
-
+import Login from './pastas/Login'
 function App() {
 
   return (
-    <div className="App">
-      <h1>design system</h1>
-    </div>
+    <Login />
   )
 }
 
